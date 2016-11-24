@@ -1,0 +1,122 @@
+
+
+.head {
+    position: fixed;
+    width: 100%;
+}
+
+.header {
+    height: 60px;
+    width: 100%;
+    background-color: #464648;
+    font-family: 'Press Start 2P', cursive;
+    color: #ffD700;
+    font-size: 60px;
+    text-align: right;
+    opacity: .8;
+}
+
+.navbar {
+  height:30px;
+    width: 100%;
+    background-color: #464648;
+    color: #ffD700;
+    opacity: .8;
+}
+
+.navbar li {
+    float: left;
+    display: inline;
+    padding: 8px 16px;
+
+}
+
+a {
+    text-decoration: none;
+    font-family: Lucida Bright;
+    color:#ffD700;
+}
+
+.mainbody {
+    margin-top: 100px;
+    width: 100%;
+    height: 600px;
+}
+
+.mainbody img {
+    height: 156px;
+    width: 300px;
+}
+
+.mainbody img:hover {
+    opacity: .3;
+}
+
+.mainbody h4 {
+    font-family: Bradley Hand ITC;
+    color: #F5D76E;
+    font-size: 30px;
+}
+
+.mainbody p {
+    font-family: Calibri;
+}
+
+.hero {
+    margin-top: 10px;
+    height: 300px;
+}
+
+.hero h4, .hero h5 {
+    text-align: center;
+    color: #363636;
+    border-style: inset;
+}
+
+.hero h4:hover {
+    border-style: outset;
+}
+
+.hero img {
+    height: 194px;
+    width: 460px;
+}
+
+.footer {
+    margin-top: 10px;
+    height: 200px;
+    background-color: #333;
+}
+
+.footer h3 {
+    color: #00ace3;
+}
+
+.footera, .footerb, .footerc, .footerd {
+    margin-top: 20px;
+    color: inherit;
+}
+
+.content {
+    margin-top: 30px;
+}
+
+marquee {
+    color: red;
+    font-size: 20px;
+}
+
+.content h4, .content h5 {
+    color: red;
+    border: 1px outset;
+    font-weight: bold;
+    font-family: Lucida Bright;
+}
+
+.content p {
+    font-family: Calibri;
+}
+
+.footerd a {
+    color: inherit;
+}
